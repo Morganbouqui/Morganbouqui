@@ -17,3 +17,12 @@ My goal is to design, build, and secure web applications using industry best pra
 - Secure Authentication & Authorization
 - Web Application Penetration Testing
 - Learning publicly • Building securely • Sharing my journey
+
+## 📚 Currently Learning
+
+- Web Application Security
+- OWASP Top 10
+- Secure PHP Development
+- Threat Modeling
+- Secure Coding Practices
+- Application Security Testing with OWASP ZAP, Burpsuite.
