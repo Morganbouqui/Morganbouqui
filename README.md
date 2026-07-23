@@ -16,3 +16,4 @@ My goal is to design, build, and secure web applications using industry best pra
 - OWASP ZAP
 - Secure Authentication & Authorization
 - Web Application Penetration Testing
+- Learning publicly • Building securely • Sharing my journey
