@@ -26,3 +26,12 @@ My goal is to design, build, and secure web applications using industry best pra
 - Threat Modeling
 - Secure Coding Practices
 - Application Security Testing with OWASP ZAP, Burpsuite.
+
+## 🎯 2026 Goals
+
+- Build a professional Application Security portfolio
+- Master the OWASP Top 10 through practical labs
+- Become proficient with OWASP ZAP
+- Contribute to open-source security projects
+- Secure real-world PHP applications
+- Begin my career as an Application Security Engineer
